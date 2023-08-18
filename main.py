@@ -40,6 +40,6 @@ while True:
         print("Saliendo del programa.")
         break
     else:
-        print("Opcion mp disponile. Por favor, seleccione una opcion de las listadas anteriormente.")
+        print("Opcion no disponile. Por favor, seleccione una opcion de las listadas anteriormente.")
 
 
